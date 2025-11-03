@@ -1,0 +1,68 @@
+[
+  {
+    "artifactId": "appcompat",
+    "excludes": [],
+    "groupId": "androidx.appcompat",
+    "versionName": "1.6.1"
+  },
+  {
+    "artifactId": "constraintlayout",
+    "excludes": [],
+    "groupId": "androidx.constraintlayout",
+    "versionName": "2.1.4"
+  },
+  {
+    "artifactId": "recyclerview",
+    "excludes": [],
+    "groupId": "androidx.recyclerview",
+    "versionName": "1.3.2"
+  },
+  {
+    "artifactId": "cardview",
+    "excludes": [],
+    "groupId": "androidx.cardview",
+    "versionName": "1.0.0"
+  },
+  {
+    "artifactId": "preference",
+    "excludes": [],
+    "groupId": "androidx.preference",
+    "versionName": "1.2.1"
+  },
+  {
+    "artifactId": "retrofit",
+    "excludes": [],
+    "groupId": "com.squareup.retrofit2",
+    "versionName": "2.9.0"
+  },
+  {
+    "artifactId": "converter-gson",
+    "excludes": [],
+    "groupId": "com.squareup.retrofit2",
+    "versionName": "2.9.0"
+  },
+  {
+    "artifactId": "logging-interceptor",
+    "excludes": [],
+    "groupId": "com.squareup.okhttp3",
+    "versionName": "4.11.0"
+  },
+  {
+    "artifactId": "okhttp",
+    "excludes": [],
+    "groupId": "com.squareup.okhttp3",
+    "versionName": "4.11.0"
+  },
+  {
+    "artifactId": "glide",
+    "excludes": [],
+    "groupId": "com.github.bumptech.glide",
+    "versionName": "4.15.1"
+  },
+  {
+    "artifactId": "documentfile",
+    "excludes": [],
+    "groupId": "androidx.documentfile",
+    "versionName": "1.0.1"
+  }
+]

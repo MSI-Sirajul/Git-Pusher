@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Git Push</string>
+    
+    <!-- Login Activity -->
+    <string name="login_title">GitHub Login</string>
+    <string name="username_hint">Enter GitHub Username</string>
+    <string name="token_hint">Enter Access Token</string>
+    <string name="login_button">Login</string>
+    <string name="login_description">Login with your GitHub username and personal access token to push your projects directly to GitHub repositories.</string>
+    
+    <!-- Main Activity -->
+    <string name="project_name_hint">Enter Project Name</string>
+    <string name="description_hint">Project Description</string>
+    <string name="select_directory">Select Project Directory</string>
+    <string name="files_selected">Files Selected: %d</string>
+    <string name="git_push_button">Git Push</string>
+    <string name="logout_button">Logout</string>
+    
+    <!-- Info Activity -->
+    <string name="developer_name">Sirajul Islam</string>
+    <string name="developer_id">sirajul</string>
+    <string name="app_concept">Local to GitHub Project Pusher</string>
+    <string name="version">Version 1.0</string>
+    
+    <!-- Permissions -->
+    <string name="permission_required">Storage Permission Required</string>
+    <string name="permission_message">This app needs storage permission to access your project files and push them to GitHub.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="cancel">Cancel</string>
+    
+    <!-- Messages -->
+    <string name="login_success">Login Successful!</string>
+    <string name="login_failed">Login Failed!</string>
+    <string name="push_success">Push Successful!</string>
+    <string name="push_failed">Push Failed!</string>
+</resources>
