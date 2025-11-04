@@ -26,7 +26,7 @@ A clean and optimized Android application that allows you to push your local Git
 
 ## Installation
 
-1. Download the latest APK from the [Releases section](#)
+1. Download the latest APK from the [Releases section](https://github.com/MSI-Sirajul/Git-Pusher/releases/latest)
 2. Enable "Install from unknown sources" in your Android settings
 3. Install the APK on your device
 4. Launch the app and start pushing your repositories!
