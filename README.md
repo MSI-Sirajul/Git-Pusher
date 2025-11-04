@@ -1,6 +1,21 @@
 # Git Pusher APK
 
-A clean and optimized Android application that allows you to push your local Git repositories directly to GitHub using API authentication.
+A clean and optimized Android application that allows you to push your local Git repositories directly to GitHub using API authentication.  
+
+<div style="text-align: center; margin-bottom: 20px;">
+  <a href="https://github.com/MSI-Sirajul/Git-Pusher/releases">
+    <img src="https://img.shields.io/github/v/release/MSI-Sirajul/Git-Pusher.svg?style=flat-square" alt="Latest Release">
+  </a>
+  <a href="https://github.com/MSI-Sirajul/Git-Pusher/releases/latest">
+    <img src="https://img.shields.io/github/downloads/MSI-Sirajul/Git-Pusher/latest/total.svg?style=flat-square" alt="Total Downloads">
+  </a>
+  <a href="https://github.com/MSI-Sirajul/Git-Pusher/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/MSI-Sirajul/Git-Pusher.svg?style=flat-square" alt="License">
+  </a>
+  <a href="https://github.com/MSI-Sirajul/Git-Pusher">
+    <img src="https://img.shields.io/github/repo-size/MSI-Sirajul/Git-Pusher.svg?style=flat-square" alt="Repo Size">
+  </a>
+</div>
 
 ![Git Pusher App](/assets/main.jpg)
 
