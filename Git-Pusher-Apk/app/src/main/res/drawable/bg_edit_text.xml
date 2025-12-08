@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Focused State (সায়ান বর্ডার) -->
+    <item android:state_focused="true">
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/transparent"/>
+            <stroke android:width="2dp" android:color="@color/colorPrimary"/>
+            <corners android:radius="8dp"/>
+        </shape>
+    </item>
+    
+    <!-- Default State (গ্রে বর্ডার) -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/colorSurface"/>
+            <stroke android:width="1dp" android:color="@color/colorBorder"/>
+            <corners android:radius="8dp"/>
+        </shape>
+    </item>
+</selector>

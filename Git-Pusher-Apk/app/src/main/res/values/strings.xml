@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Git Pusher Pro</string>
+    
+    <!-- Login Screen -->
+    <string name="login_title">Connect GitHub</string>
+    <string name="login_subtitle">Enter your Personal Access Token (PAT) to continue.</string>
+    <string name="hint_username">GitHub Username</string>
+    <string name="hint_token">Personal Access Token</string>
+    <string name="btn_login">Authenticate</string>
+    <string name="login_footer">Securely stored on your device</string>
+    
+    <!-- Main Dashboard -->
+    <string name="dashboard_title">Project Manager</string>
+    <string name="btn_select_folder">Select Project Folder</string>
+    <string name="btn_push_now">Push to GitHub</string>
+    <string name="stats_folders">Folders</string>
+    <string name="stats_files">Files</string>
+    <string name="status_ready">Ready to Push</string>
+    <string name="status_offline">Device Offline</string>
+    
+    <!-- Popup -->
+    <string name="process_title">Processing...</string>
+    <string name="step_init">Initializing Git...</string>
+    <string name="step_add">Adding Files...</string>
+    <string name="step_commit">Committing Changes...</string>
+    <string name="step_push">Pushing to Remote...</string>
+</resources>

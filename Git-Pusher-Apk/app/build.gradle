@@ -1,0 +1,39 @@
+plugins {
+}
+
+android {
+    compileSdk 33
+
+    defaultConfig {
+        applicationId "com.gitpusher.pro"
+        minSdk 26
+        targetSdk 34
+        versionCode 11
+        versionName "1.0 tryal_version"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+    // 1. JGit (গিট অপারেশনের জন্য)
+    implementation 'org.eclipse.jgit:org.eclipse.jgit:6.5.0.202303070854-r'
+    
+    // 2. Retrofit & Gson (গিটহাব API কল এবং JSON এর জন্য)
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+
+    // 3. Basic AndroidX (Standard) - UI এর জন্য
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'androidx.cardview:cardview:1.0.0' // কার্ড ভিউ এর জন্য
+}

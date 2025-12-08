@@ -1,0 +1,38 @@
+[
+  {
+    "artifactId": "org.eclipse.jgit",
+    "excludes": [],
+    "groupId": "org.eclipse.jgit",
+    "versionName": "6.5.0.202303070854-r"
+  },
+  {
+    "artifactId": "retrofit",
+    "excludes": [],
+    "groupId": "com.squareup.retrofit2",
+    "versionName": "2.9.0"
+  },
+  {
+    "artifactId": "converter-gson",
+    "excludes": [],
+    "groupId": "com.squareup.retrofit2",
+    "versionName": "2.9.0"
+  },
+  {
+    "artifactId": "appcompat",
+    "excludes": [],
+    "groupId": "androidx.appcompat",
+    "versionName": "1.6.1"
+  },
+  {
+    "artifactId": "constraintlayout",
+    "excludes": [],
+    "groupId": "androidx.constraintlayout",
+    "versionName": "2.1.4"
+  },
+  {
+    "artifactId": "cardview",
+    "excludes": [],
+    "groupId": "androidx.cardview",
+    "versionName": "1.0.0"
+  }
+]
